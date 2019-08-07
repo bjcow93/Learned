@@ -93,3 +93,5 @@ day 44
 day 45
 
 day 46
+
+day today
